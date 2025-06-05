@@ -1,5 +1,5 @@
 const productosPorCategoria = {
-  "Verduras": ["Tomate", "Cebolla", "Lechuga"],
+  "Verduras": ["Cebolla", "Tomate", "Papa", "Pepino", "Apio", "Zanahoria", "Lechuga", "Aguacate", "Limón", "Repollo morado", "Chile morrón", "Jalapeño", "Chile güerito", "Chile California", "Cebollín", "Tomatillo", "Piña"],
   "Panadería": ["Pan para hot dogs", "Pan para hamburguesa"],
   "Lácteos": ["Queso", "Crema", "Leche"],
   "Carnes": ["Carne molida", "Bistec", "Pechuga de pollo"],
